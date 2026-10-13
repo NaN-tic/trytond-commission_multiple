@@ -1,0 +1,6 @@
+include README
+include LICENSE
+include tryton.cfg
+include *.xml
+recursive-include view *.xml
+recursive-include tests *.py

@@ -1,0 +1,9 @@
+Commission Multiple
+===================
+
+Assign multiple commission agents to customer invoices and, when Sale is
+activated, to sales. Each agent uses its own commission plan. Sales copy their
+agents to invoices, and credit notes retain them unless With Agent is disabled.
+
+The original agent fields are hidden. Existing invoices should have their
+agents reviewed before posting after activating this module.
